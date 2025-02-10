@@ -1,5 +1,3 @@
-# gitignore javascript sample
-
 # ignore .idea
 .idea/
 # Ignore node_modules directory
